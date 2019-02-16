@@ -1,0 +1,21 @@
+body {
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: normal;
+	background-color: green;
+}
+
+h1,
+h2 {
+	color: lightblue;
+}
+
+a {
+	color: orange;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: red;
+	background-color: yellow;
+}
